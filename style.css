@@ -1,0 +1,82 @@
+h1{
+    text-align: center;
+    color: #ffff;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50pt;
+    font-weight: bolder;
+}
+body{
+    background-color: black;
+}
+.table01{
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right:auto;
+    font-family: cursive;
+    font-size: large;
+}
+.table02{
+    border-collapse: separate;
+    border-spacing: 5px;
+    width: 70%;
+    margin-left: 18%;
+    font-family: cursive;
+    font-size: large;
+}
+.red{
+    color:#ff7d7d;
+    text-shadow: 0 0 20px hwb(0 0% 0%), 0 0 50px #ff0000, 0 0 100px #ff0000;
+    background-color: rgba(255, 125, 125, 0.1);
+     
+}
+.blue{
+    color: #8282f4;
+    text-shadow: 0 0 2px #0000ff, 0 0 50px #0000ff, 0 0 100px #0000ff;
+    background-color: rgba(130, 130, 244, 0.1);
+}
+.purple{
+    color: #ff83ff;
+    text-shadow: 0 0 20px #c004c0, 0 0 50px #c004c0, 0 0 100px #c004c0;
+    background-color: rgba(255, 131, 255, 0.1);
+
+}
+.green{
+    color: #96fa96;
+    text-shadow: 0 0 20px #00ff00, 0 0 50px #00ff00, 0 0 100px #00ff00;
+    background-color: rgba(150, 250, 150, 0.1);
+
+}
+.yellow{
+    color: #ffffb5;
+    text-shadow: 0 0 20px #ffff00, 0 0 50px #ffff00, 0 0 100px #ffff00;
+    background-color: rgba(255, 255, 181, 0.1);
+}
+.pink{
+    color: #ffaed7;
+    text-shadow: 0 0 20px #e9529d, 0 0 50px #ff69b4, 0 0 100px #ff69b4;
+    background-color: rgba(255, 174, 215, 0.1);
+}
+.violet{
+    color: #c68ff9;
+    text-shadow: 0 0 20px #8a2be2, 0 0 50px #8a2be2, 0 0 100px #8a2be2;
+    background-color: rgba(198, 143, 249, 0.1);
+}
+.orange{
+    color: #fcbd7e;
+    text-shadow: 0 0 20px #ff8000, 0 0 50px #ff8000, 0 0 100px #ff8000;
+    background-color: rgba(252, 189, 126, 0.1);
+}
+.sky{
+    color: #a2f7f7;
+    text-shadow: 0 0 20px #00ffff, 0 0 50px #00ffff, 0 0 100px #00ffff;
+    background-color: rgba(162, 247, 247, 0.1);
+}
+td{
+    border: 1px solid;
+    padding: 8px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.025);
+}
